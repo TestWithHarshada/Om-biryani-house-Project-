@@ -1,6 +1,6 @@
 # Om-biryani-house-Project-
 
-    - Project Name:- Om Biryani House – WordPress Website(Ongoing)
+    - Project Name:- Om Biryani House – Deveoping WordPress Website(Ongoing) + Social Media Manager 
 - Business Type :- (Food & Restaurant)
 - Work Summary :- 
      - Designed and developed WordPress website for own restaurant brand "Om Biryani House".
